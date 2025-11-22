@@ -1,4 +1,4 @@
-# AndroidAppsDiff
+# AndroidAppsDiff (Work in progress)
 This project is meant to calculate the differences between two lists of Android apps produced by the [AppListBackup](https://github.com/AndroidLabs-org/AppListBackup) app in csv format.
 
 # Build
